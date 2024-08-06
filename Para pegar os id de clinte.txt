@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=2NuI-6kDq_A
+
+URIs de redirecionamento autorizados:
+coloque isso (http://127.0.0.1:5000/)
